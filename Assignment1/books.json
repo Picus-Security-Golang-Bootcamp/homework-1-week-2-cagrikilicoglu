@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "name": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "originalLanguage": "English",
+      "approximateSales": 200,
+      "firstPublished": 1859
+    },
+    {
+      "name": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "originalLanguage": "English",
+      "approximateSales": 140.6,
+      "firstPublished": 1937
+    },
+    {
+      "name": "Harry Potter and the Philosophers Stone",
+      "author": "J. K. Rowling",
+      "originalLanguage": "English",
+      "approximateSales": 120,
+      "firstPublished": 1997
+    },
+    {
+      "name": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "originalLanguage": "French",
+      "approximateSales": 100,
+      "firstPublished": 1943
+    },
+    {
+      "name": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "originalLanguage": "Chinese",
+      "approximateSales": 100,
+      "firstPublished": 1750
+    },
+    {
+      "name": "And Then There Were None",
+      "author": "Agatha Christie",
+      "originalLanguage": "English",
+      "approximateSales": 100,
+      "firstPublished": 1939
+    },
+    {
+      "name": "The Lion, the Witch and the Wardrobe",
+      "author": "C. S. Lewis",
+      "originalLanguage": "English",
+      "approximateSales": 85,
+      "firstPublished": 1950
+    },
+    {
+      "name": "She: A History of Adventure",
+      "author": "H. Rider Haggard",
+      "originalLanguage": "English",
+      "approximateSales": 83,
+      "firstPublished": 1887
+    },
+    {
+      "name": "The Adventures of Pinocchio",
+      "author": "Carlo Collodi",
+      "originalLanguage": "Italian",
+      "approximateSales": 80,
+      "firstPublished": 1881
+    },
+    {
+      "name": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "originalLanguage": "English",
+      "approximateSales": 80,
+      "firstPublished": 2003
+    }
+  ]
+}
